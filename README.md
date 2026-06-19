@@ -11,3 +11,12 @@ As will be shown with a reference image!
 ![Initial Picture](https://github.com/CHarris-VR/debt-solving-062026/blob/main/pictures/01ref.png)
 
 Based on what I can see, the person so far is making several work purchases which I would assume would be for food at work. I would like to see how much money is being spent per specific classification of "Reason" of spending money as time goes on.
+
+
+## Updates
+
+### Jun. 19 2026 6:51 PM
+Updates will be in ascending order.
+
+In addition to this, added dropdown boxes to better organize while on the go without having to retype repeatable information for what is being used.
+![Initial Picture](https://github.com/CHarris-VR/debt-solving-062026/blob/main/pictures/02ref.png)
